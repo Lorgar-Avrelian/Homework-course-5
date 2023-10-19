@@ -10,4 +10,5 @@ public interface UserService {
     User oldest(Collection<User> userCollection);
 
     User doAllTasks(Collection<User> userCollection);
+
 }
